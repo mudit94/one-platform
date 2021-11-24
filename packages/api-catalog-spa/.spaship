@@ -1,0 +1,17 @@
+{
+	"webPropertyVersion": "v1",
+	"webPropertyName": "test.redhat.com",
+	"environments": [
+		"prod",
+		"dev",
+		"stage"
+	],
+	"branch": "master",
+	"name": "/packages/api-catalog-spa",
+	"mapping": "newHo22meContext",
+	"excludeFromEnvs": [
+		"prod",
+		"dev",
+		"stage"
+	]
+}
