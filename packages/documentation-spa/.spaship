@@ -1,0 +1,17 @@
+{
+	"webPropertyVersion": "v1",
+	"webPropertyName": "",
+	"environments": [
+		"prod",
+		"dev",
+		"stage"
+	],
+	"branch": "master",
+	"name": "/packages/documentation-spa",
+	"mapping": "newH222omeHi",
+	"excludeFromEnvs": [
+		"prod",
+		"dev",
+		"stage"
+	]
+}
