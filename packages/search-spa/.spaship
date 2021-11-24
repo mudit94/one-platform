@@ -1,0 +1,17 @@
+{
+	"webPropertyVersion": "v1",
+	"webPropertyName": "one.redhat.com",
+	"environments": [
+		"prod",
+		"dev",
+		"stage"
+	],
+	"branch": "master",
+	"name": "/packages/search-spa",
+	"mapping": ".",
+	"excludeFromEnvs": [
+		"prod",
+		"dev",
+		"stage"
+	]
+}
